@@ -1,0 +1,71 @@
+{"level":"info","message":"PC Repair Bot started successfully","timestamp":"2025-04-25T10:22:09.130Z"}
+{"isAdmin":true,"level":"info","message":"Start command received","timestamp":"2025-04-25T10:22:47.416Z","userId":1464403092,"username":"dmitryilife"}
+{"isAdmin":true,"level":"info","message":"Start command received","timestamp":"2025-04-25T10:23:17.869Z","userId":1464403092,"username":"dmitryilife"}
+{"action":"service_6","level":"info","message":"Callback query received","timestamp":"2025-04-25T10:23:30.772Z","userId":1464403092}
+{"action":"service_2","level":"info","message":"Callback query received","timestamp":"2025-04-25T10:23:39.042Z","userId":1464403092}
+{"action":"service_1","level":"info","message":"Callback query received","timestamp":"2025-04-25T10:23:39.046Z","userId":1464403092}
+{"level":"info","message":"PC Repair Bot started successfully","timestamp":"2025-04-25T10:32:16.664Z"}
+{"level":"info","message":"PC Repair Bot started successfully","timestamp":"2025-04-25T10:38:28.627Z"}
+{"isAdmin":true,"level":"info","message":"Start command received","timestamp":"2025-04-25T10:38:52.066Z","userId":1464403092,"username":"dmitryilife"}
+{"action":"service_6","level":"info","message":"Callback query received","timestamp":"2025-04-25T10:39:00.387Z","userId":1464403092}
+{"level":"info","message":"Loyalty points added","newTotal":500,"pointsAdded":500,"reason":"New repair request","timestamp":"2025-04-25T10:39:00.392Z","userId":1464403092}
+{"isAdmin":true,"level":"info","message":"Start command received","timestamp":"2025-04-25T10:39:31.890Z","userId":1464403092,"username":"dmitryilife"}
+{"level":"info","message":"PC Repair Bot started successfully","timestamp":"2025-04-25T10:42:36.461Z"}
+{"isAdmin":true,"level":"info","message":"Start command received","timestamp":"2025-04-25T10:42:38.257Z","userId":1464403092,"username":"dmitryilife"}
+{"action":"offer_1","level":"info","message":"Callback query received","timestamp":"2025-04-25T10:43:04.420Z","userId":1464403092}
+{"level":"info","message":"Loyalty points added","newTotal":450,"pointsAdded":450,"reason":"Special offer purchase","timestamp":"2025-04-25T10:43:04.424Z","userId":1464403092}
+{"isAdmin":true,"level":"info","message":"Start command received","timestamp":"2025-04-25T10:43:21.580Z","userId":1464403092,"username":"dmitryilife"}
+{"level":"info","message":"PC Repair Bot started successfully","timestamp":"2025-04-25T11:04:50.147Z"}
+{"level":"info","message":"PC Repair Bot started successfully","timestamp":"2025-04-25T15:04:49.824Z"}
+{"level":"info","message":"PC Repair Bot started successfully","timestamp":"2025-04-26T12:15:26.844Z"}
+{"action":"service_1","level":"info","message":"Callback query received","timestamp":"2025-04-26T12:15:41.049Z","userId":1464403092}
+{"level":"info","message":"Loyalty points added","newTotal":150,"pointsAdded":150,"reason":"New repair request","timestamp":"2025-04-26T12:15:41.054Z","userId":1464403092}
+{"action":"offer_3","level":"info","message":"Callback query received","timestamp":"2025-04-26T12:15:53.416Z","userId":1464403092}
+{"level":"info","message":"Loyalty points added","newTotal":900,"pointsAdded":750,"reason":"Special offer purchase","timestamp":"2025-04-26T12:15:53.421Z","userId":1464403092}
+{"action":"offer_2","level":"info","message":"Callback query received","timestamp":"2025-04-26T12:15:54.051Z","userId":1464403092}
+{"level":"info","message":"Loyalty points added","newTotal":1150,"pointsAdded":250,"reason":"Special offer purchase","timestamp":"2025-04-26T12:15:54.055Z","userId":1464403092}
+{"action":"offer_1","level":"info","message":"Callback query received","timestamp":"2025-04-26T12:16:10.343Z","userId":1464403092}
+{"level":"info","message":"Loyalty points added","newTotal":1600,"pointsAdded":450,"reason":"Special offer purchase","timestamp":"2025-04-26T12:16:10.348Z","userId":1464403092}
+{"level":"info","message":"Received SIGTERM signal","timestamp":"2025-04-26T12:20:03.918Z"}
+{"isAdmin":true,"level":"info","message":"Start command received","timestamp":"2025-04-26T12:24:50.635Z","userId":1464403092,"username":"dmitryilife"}
+{"isAdmin":true,"level":"info","message":"Start command received","timestamp":"2025-04-26T12:31:08.856Z","userId":1464403092,"username":"dmitryilife"}
+{"isAdmin":true,"level":"info","message":"Start command received","timestamp":"2025-04-26T12:31:20.754Z","userId":1464403092,"username":"dmitryilife"}
+{"isAdmin":true,"level":"info","message":"Start command received","timestamp":"2025-04-26T13:52:45.176Z","userId":1464403092,"username":"dmitryilife"}
+{"isAdmin":true,"level":"info","message":"Start command received","timestamp":"2025-04-26T13:52:45.203Z","userId":1464403092,"username":"dmitryilife"}
+{"isAdmin":true,"level":"info","message":"Start command received","timestamp":"2025-04-26T14:08:24.401Z","userId":1464403092,"username":"dmitryilife"}
+{"isAdmin":true,"level":"info","message":"Start command received","timestamp":"2025-04-26T14:09:01.930Z","userId":1464403092,"username":"dmitryilife"}
+{"action":"show_special_offers","level":"info","message":"Callback query received","timestamp":"2025-04-26T14:09:37.662Z","userId":1464403092}
+{"action":"service_3","level":"info","message":"Callback query received","timestamp":"2025-04-26T14:09:42.303Z","userId":1464403092}
+{"level":"info","message":"Loyalty points added","newTotal":100,"pointsAdded":100,"reason":"New repair request","timestamp":"2025-04-26T14:09:42.308Z","userId":1464403092}
+{"action":"update_1745676582307","level":"info","message":"Callback query received","timestamp":"2025-04-26T14:09:52.418Z","userId":1464403092}
+{"action":"status_1745676582307_cancelled","level":"info","message":"Callback query received","timestamp":"2025-04-26T14:09:55.197Z","userId":1464403092}
+{"isAdmin":true,"level":"info","message":"Start command received","timestamp":"2025-04-26T14:10:09.376Z","userId":1464403092,"username":"dmitryilife"}
+{"isAdmin":true,"level":"info","message":"Start command received","timestamp":"2025-04-26T14:11:40.532Z","userId":1464403092,"username":"dmitryilife"}
+{"action":"show_history","level":"info","message":"Callback query received","timestamp":"2025-04-26T14:12:56.330Z","userId":1464403092}
+{"action":"show_history","level":"info","message":"Callback query received","timestamp":"2025-04-26T14:12:59.059Z","userId":1464403092}
+{"isAdmin":false,"level":"info","message":"Start command received","timestamp":"2025-04-26T14:14:04.624Z","userId":7464395782,"username":"vikusha_visnuhka"}
+{"action":"show_special_offers","level":"info","message":"Callback query received","timestamp":"2025-04-26T14:14:26.295Z","userId":7464395782}
+{"action":"offer_1","level":"info","message":"Callback query received","timestamp":"2025-04-26T14:14:57.700Z","userId":7464395782}
+{"level":"info","message":"Loyalty points added","newTotal":450,"pointsAdded":450,"reason":"Special offer purchase","timestamp":"2025-04-26T14:14:57.702Z","userId":7464395782}
+{"action":"show_profile","level":"info","message":"Callback query received","timestamp":"2025-04-26T14:15:14.479Z","userId":1464403092}
+{"action":"show_profile","level":"info","message":"Callback query received","timestamp":"2025-04-26T14:15:15.834Z","userId":1464403092}
+{"action":"show_profile","level":"info","message":"Callback query received","timestamp":"2025-04-26T14:15:16.304Z","userId":1464403092}
+{"action":"update_1745676897702","level":"info","message":"Callback query received","timestamp":"2025-04-26T14:15:23.649Z","userId":1464403092}
+{"action":"status_1745676897702_pending","level":"info","message":"Callback query received","timestamp":"2025-04-26T14:15:32.083Z","userId":1464403092}
+{"isAdmin":true,"level":"info","message":"Start command received","timestamp":"2025-04-26T14:37:05.270Z","userId":1464403092,"username":"dmitryilife"}
+{"isAdmin":false,"level":"info","message":"Start command received","timestamp":"2025-04-26T14:37:41.522Z","userId":1186033617,"username":"Nadezhdasivykh"}
+{"action":"show_special_offers","level":"info","message":"Callback query received","timestamp":"2025-04-26T14:38:51.983Z","userId":1464403092}
+{"action":"offer_1","level":"info","message":"Callback query received","timestamp":"2025-04-26T14:43:37.178Z","userId":1464403092}
+{"level":"info","message":"Loyalty points added","newTotal":450,"pointsAdded":450,"reason":"Special offer purchase","timestamp":"2025-04-26T14:43:37.192Z","userId":1464403092}
+{"action":"update_1745678617191","level":"info","message":"Callback query received","timestamp":"2025-04-26T14:44:35.085Z","userId":1464403092}
+{"isAdmin":true,"level":"info","message":"Start command received","timestamp":"2025-04-26T14:45:49.742Z","userId":1464403092,"username":"dmitryilife"}
+{"action":"show_history","level":"info","message":"Callback query received","timestamp":"2025-04-26T14:46:02.364Z","userId":1464403092}
+{"isAdmin":true,"level":"info","message":"Start command received","timestamp":"2025-04-26T19:56:59.575Z","userId":1464403092,"username":"dmitryilife"}
+{"isAdmin":true,"level":"info","message":"Start command received","timestamp":"2025-04-27T13:23:48.329Z","userId":1464403092,"username":"dmitryilife"}
+{"isAdmin":true,"level":"info","message":"Start command received","timestamp":"2025-04-27T13:23:48.345Z","userId":8176868591,"username":"SUNRISE0576"}
+{"isAdmin":true,"level":"info","message":"Start command received","timestamp":"2025-04-27T13:27:04.551Z","userId":1464403092,"username":"dmitryilife"}
+{"isAdmin":true,"level":"info","message":"Start command received","timestamp":"2025-04-27T13:31:54.819Z","userId":1464403092,"username":"dmitryilife"}
+{"action":"help_contact","level":"info","message":"Callback query received","timestamp":"2025-04-27T13:32:24.244Z","userId":1464403092}
+{"action":"help_general","level":"info","message":"Callback query received","timestamp":"2025-04-27T13:32:27.834Z","userId":1464403092}
+{"action":"help_services","level":"info","message":"Callback query received","timestamp":"2025-04-27T13:32:31.977Z","userId":1464403092}
+{"action":"back_to_main","level":"info","message":"Callback query received","timestamp":"2025-04-27T13:32:35.710Z","userId":1464403092}
